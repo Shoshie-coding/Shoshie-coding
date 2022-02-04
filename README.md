@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shoshie-coding
-- 🌱 I’m currently learning Software Development - HTML, CSS, JavaScript and Python. 
+- 🌱 I’m currently learning Fullstack Software Development - HTML|CSS|Js|Python|Fullstack frameworks.  
 
 
 <!---
